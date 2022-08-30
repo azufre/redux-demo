@@ -1,0 +1,11 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "main": "redux-demo.js",
+  "repository": "https://github.com/azufre/redux-demo.git",
+  "author": "roberto mena <robertoj@nicasource.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
